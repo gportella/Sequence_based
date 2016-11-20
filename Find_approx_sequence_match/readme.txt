@@ -1,5 +1,6 @@
 
-Approximate sequence match (edit distance N). 
+Find approximate matches in fasta from multiple
+input fasta files. You can supply your maximum edit distance. 
 
 Depends on SeqAn. Can write out compressed output. 
 
