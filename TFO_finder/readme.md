@@ -41,3 +41,6 @@ calls that do the same but speciallized (eg. folding vs non-folding).
 
 Quite important: do use -O3 for production, makes the codes way faster
 although the compiler takes a tad longer
+
+The code works fine, but there might be some hacks that require polishing
+here and there.
